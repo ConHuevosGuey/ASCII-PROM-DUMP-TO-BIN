@@ -1,0 +1,7 @@
+E:\Programming\PROMTXT_TO_BIN\PROMTXT_TO_BIN\bin\Debug\PROMTXT_TO_BIN.exe
+E:\Programming\PROMTXT_TO_BIN\PROMTXT_TO_BIN\bin\Debug\PROMTXT_TO_BIN.pdb
+E:\Programming\PROMTXT_TO_BIN\PROMTXT_TO_BIN\obj\x86\Debug\PROMTXT_TO_BIN.Form1.resources
+E:\Programming\PROMTXT_TO_BIN\PROMTXT_TO_BIN\obj\x86\Debug\PROMTXT_TO_BIN.Properties.Resources.resources
+E:\Programming\PROMTXT_TO_BIN\PROMTXT_TO_BIN\obj\x86\Debug\PROMTXT_TO_BIN.csproj.GenerateResource.Cache
+E:\Programming\PROMTXT_TO_BIN\PROMTXT_TO_BIN\obj\x86\Debug\PROMTXT_TO_BIN.exe
+E:\Programming\PROMTXT_TO_BIN\PROMTXT_TO_BIN\obj\x86\Debug\PROMTXT_TO_BIN.pdb
